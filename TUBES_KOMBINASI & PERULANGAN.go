@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"   // Untuk input dan output
+	"fmt"   // Untuk input & output
 	"strings" // Untuk mengonversi string ke uppercase
 )
 
@@ -38,3 +38,4 @@ func main() {
 		}
 	}
 }
+
